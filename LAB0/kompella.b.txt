@@ -1,0 +1,9 @@
+Installed Ubuntu 20.04 with using the Oracle VirtualBox Manager
+
+Installed ROS Noetic 
+
+Successfully installed Git on Ubuntu. A repository has been created for the assignments. 
+
+Northeastern Username: kompella.b
+Northeastern email: kompella.b@gmail.com
+Github username: kompella-b
